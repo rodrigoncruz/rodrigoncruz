@@ -1,4 +1,4 @@
-## Olá, me chamo Rodrigo e sou Desenvolvedor na STUDIO VISUAL
+## Hi, my name is Rodrigo and I'm a Developer at STUDIO VISUAL
 <div align="center">
   <a href="https://github.com/rodrigoncruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoncruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
